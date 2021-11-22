@@ -1,0 +1,42 @@
+{
+    "sourceFile": "css/base/color.css",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 6,
+            "patches": [
+                {
+                    "date": 1637463596070,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1637463636299,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,3 +1,3 @@\n :root {\r\n-    --my-color: red\r\n+    --primary-color: #f5f7f8;\r\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1637463931804,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,5 @@\n+:root {\r\n+    --primary-color: #f5f7f8;\r\n+    --secondary-color: #fff;\r\n+    --third-color: #444;\r\n+}\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1637464045569,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,6 @@\n :root {\r\n     --primary-color: #f5f7f8;\r\n     --secondary-color: #fff;\r\n-    --third-color: #444;\r\n-}\n-:root {\r\n-    --primary-color: #f5f7f8;\r\n+    --thir-color: #A8BDC7;\r\n+    --fourth-color: #444;\r\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1637464114667,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,5 +2,6 @@\n     --primary-color: #f5f7f8;\r\n     --secondary-color: #fff;\r\n     --thir-color: #A8BDC7;\r\n     --fourth-color: #444;\r\n+    --fifth-color: #A8BDC7;\r\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1637464136469,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,6 +2,6 @@\n     --primary-color: #f5f7f8;\r\n     --secondary-color: #fff;\r\n     --thir-color: #A8BDC7;\r\n     --fourth-color: #444;\r\n-    --fifth-color: #A8BDC7;\r\n+    --fifth-color: #B2B5CF;\r\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1637464146858,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,7 +1,7 @@\n :root {\r\n     --primary-color: #f5f7f8;\r\n     --secondary-color: #fff;\r\n-    --thir-color: #A8BDC7;\r\n+    --third-color: #A8BDC7;\r\n     --fourth-color: #444;\r\n     --fifth-color: #B2B5CF;\r\n }\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1637463596070,
+            "name": "Commit-0",
+            "content": ":root {\r\n    --my-color: red\r\n}"
+        }
+    ]
+}
