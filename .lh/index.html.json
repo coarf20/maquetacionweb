@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 13,
+            "activePatchIndex": 14,
             "patches": [
                 {
                     "date": 1637462454545,
@@ -60,6 +60,10 @@
                 {
                     "date": 1637547491938,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -25,8 +25,10 @@\n                     <li class=\"content-header__item\">\r\n                         <a href=\"libros.html\" class=\"content-header__link\">libros</a>\r\n                     </li>\r\n                 </ul>\r\n+\r\n+\r\n             </nav>\r\n         </header>\r\n         <main class=\"content-main\">\r\n             <div class=\"content-main__item-1\">\r\n"
+                },
+                {
+                    "date": 1637547998293,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -25,10 +25,8 @@\n                     <li class=\"content-header__item\">\r\n                         <a href=\"libros.html\" class=\"content-header__link\">libros</a>\r\n                     </li>\r\n                 </ul>\r\n-\r\n-\r\n             </nav>\r\n         </header>\r\n         <main class=\"content-main\">\r\n             <div class=\"content-main__item-1\">\r\n"
                 }
             ],
             "date": 1637462454545,
